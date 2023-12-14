@@ -20,7 +20,7 @@ This repository contains an e-commerce platform built with Next.js, Prisma, Type
 1. **Clone this repository** to your local machine:
 
     ```bash
-    git clone https://github.com/rksumon/next-ecommerce.git
+    git clone https://github.com/rayhanulsumon/next-ecommerce.git
     cd next-ecommerce
     ```
 
