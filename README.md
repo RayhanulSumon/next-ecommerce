@@ -22,9 +22,9 @@ This repository contains an e-commerce platform built with Next.js, Prisma, Type
     git clone https://github.com/rayhanulsumon/next-ecommerce.git
     ```
 
-  ```bash
-   cd next-ecommerce
-   ```
+   ```bash
+    cd next-ecommerce
+    ```
 2. **Install Dependencies**:
 
     ```bash
