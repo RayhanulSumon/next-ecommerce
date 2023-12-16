@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains an e-commerce platform built with Next.js, Prisma, TypeScript, and MongoDB. The project aims to provide seamless user experiences and robust functionalities for managing products, user accounts, and shopping carts.
+This repository contains an e-commerce platform built with Next.js, Prisma, TypeScript, and MongoDB. The project aims to provide seamless user experiences and robust functionalities for managing products, orders, user accounts, and shopping carts.
 
 ## Key Features
 
